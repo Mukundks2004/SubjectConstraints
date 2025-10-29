@@ -4,7 +4,7 @@
     "nickname": "Adv Algos",
     "code": "1",
     "difficulty": "bludge",
-    "semesters": ["Sum2025", "Spr2026, Sum2026"],
+    "semesters": ["Sum 2025", "Spr 2026", "Sum 2026"],
     "prerequisites": []
   },
   {
@@ -12,7 +12,7 @@
     "nickname": "PMP",
     "code": "2",
     "difficulty": "bludge",
-    "semesters": ["Sum2025", "Aut2026"],
+    "semesters": ["Sum 2025", "Aut 2026"],
     "prerequisites": []
   },
   {
@@ -20,7 +20,7 @@
     "nickname": "Career Management",
     "code": "3",
     "difficulty": "bludge",
-    "semesters": ["Win2026", "Aut2026"],
+    "semesters": ["Win 2026", "Aut 2026"],
     "prerequisites": []
   },
   {
@@ -28,7 +28,7 @@
     "nickname": "Math 1",
     "code": "4",
     "difficulty": "bludge",
-    "semesters": ["Win2026", "Aut2026"],
+    "semesters": ["Win 2026", "Aut 2026"],
     "prerequisites": []
   },
   {
@@ -36,7 +36,7 @@
     "nickname": "Math 2",
     "code": "5",
     "difficulty": "bludge",
-    "semesters": ["Win2026", "Aut2026"],
+    "semesters": ["Win 2026", "Aut 2026"],
     "prerequisites": ["4"]
   },
   {
@@ -44,7 +44,7 @@
     "nickname": "Cybersecurity",
     "code": "6",
     "difficulty": "hard",
-    "semesters": ["Win2026", "Aut2026"],
+    "semesters": ["Win 2026", "Aut 2026"],
     "prerequisites": []
   },
   {
@@ -52,7 +52,7 @@
     "nickname": "RTOS",
     "code": "7",
     "difficulty": "hard",
-    "semesters": ["Win2026", "Aut2026"],
+    "semesters": ["Win 2026", "Aut 2026"],
     "prerequisites": []
   },
   {
@@ -60,7 +60,7 @@
     "nickname": "Digital Forensics",
     "code": "8",
     "difficulty": "hard",
-    "semesters": ["Win2026", "Aut2026"],
+    "semesters": ["Win 2026", "Aut 2026"],
     "prerequisites": []
   },
   {
@@ -68,7 +68,7 @@
     "nickname": "Cryptography",
     "code": "9",
     "difficulty": "hard",
-    "semesters": ["Win2026", "Aut2026"],
+    "semesters": ["Win 2026", "Aut 2026"],
     "prerequisites": []
   },
   {
@@ -76,7 +76,7 @@
     "nickname": "DDD",
     "code": "10",
     "difficulty": "bludge",
-    "semesters": ["Win2026", "Aut2026"],
+    "semesters": ["Win 2026", "Aut 2026"],
     "prerequisites": []
   }
 ]
