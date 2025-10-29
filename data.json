@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Advanced Algorithms",
+    "nickname": "Adv Algos",
+    "code": "1",
+    "difficulty": "bludge",
+    "semesters": ["Sum2025", "Spr2026, Sum2026"],
+    "prerequisites": []
+  },
+  {
+    "name": "Project Management and the Professional",
+    "nickname": "PMP",
+    "code": "2",
+    "difficulty": "bludge",
+    "semesters": ["Sum2025", "Aut2026"],
+    "prerequisites": []
+  },
+  {
+    "name": "Career Management for IT Professionals",
+    "nickname": "Career Management",
+    "code": "3",
+    "difficulty": "bludge",
+    "semesters": ["Win2026", "Aut2026"],
+    "prerequisites": []
+  },
+  {
+    "name": "Mathematics 1",
+    "nickname": "Math 1",
+    "code": "4",
+    "difficulty": "bludge",
+    "semesters": ["Win2026", "Aut2026"],
+    "prerequisites": []
+  },
+  {
+    "name": "Mathematics 2",
+    "nickname": "Math 2",
+    "code": "5",
+    "difficulty": "bludge",
+    "semesters": ["Win2026", "Aut2026"],
+    "prerequisites": ["4"]
+  },
+  {
+    "name": "Cybersecurity",
+    "nickname": "Cybersecurity",
+    "code": "6",
+    "difficulty": "hard",
+    "semesters": ["Win2026", "Aut2026"],
+    "prerequisites": []
+  },
+  {
+    "name": "Real-time Operating Systems",
+    "nickname": "RTOS",
+    "code": "7",
+    "difficulty": "hard",
+    "semesters": ["Win2026", "Aut2026"],
+    "prerequisites": []
+  },
+  {
+    "name": "Digital Forensics",
+    "nickname": "Digital Forensics",
+    "code": "8",
+    "difficulty": "hard",
+    "semesters": ["Win2026", "Aut2026"],
+    "prerequisites": []
+  },
+  {
+    "name": "Cryptography",
+    "nickname": "Cryptography",
+    "code": "9",
+    "difficulty": "hard",
+    "semesters": ["Win2026", "Aut2026"],
+    "prerequisites": []
+  },
+  {
+    "name": "Design, Data and Decisions",
+    "nickname": "DDD",
+    "code": "10",
+    "difficulty": "bludge",
+    "semesters": ["Win2026", "Aut2026"],
+    "prerequisites": []
+  }
+]
